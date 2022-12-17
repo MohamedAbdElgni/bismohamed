@@ -5,8 +5,7 @@ Who Knows!!!!
 
 
 Skills: Python
-
-- 🔭 I’m currently working on this page. 
+ 
 - 👯 I’m looking to collaborate on Any Data Project 
 - 🤔 I’m looking for an internship in Data Analysis  
 - 💬 Ask me about Data, Python, SQL 
