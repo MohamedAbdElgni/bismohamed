@@ -7,7 +7,6 @@ Who Knows!!!!
 Skills: Python
  
 - 👯 I’m looking to collaborate on Any Data Project 
-- 🤔 I’m looking for an internship in Data Analysis  
 - 💬 Ask me about Data, Python, SQL 
 - 📫 How to reach me: mohamed.a.abdelgani@gmail.com 
 
